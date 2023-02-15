@@ -5,6 +5,7 @@
 # Sobre o projeto
 
 Nesta aplicação, a api da Newsapi foi consumida na linguagem Python e exibida uma lista de artigos com informações de autores, título e descrição dos artigos.
+Houve preocupação no sentido de esconder a chave de segurança na utilização da biblioteca dotenv do Python
 
 ## Print do projeto no Visual Studio Code
 <div align="center">
