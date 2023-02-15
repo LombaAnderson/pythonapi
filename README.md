@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Nesta aplicação, a api da Newsapi foi consumida na linguagem Python e exibida uma lista de notícias recentes do Brasil com informações de seus autores, título e descrição das notícias. A Api foi usada também no Google Colab e houve a preocupação, quando no Visual Studio Code, de esconder a chave de segurança ao utilizar a biblioteca dotenv do Python.
+Nesta aplicação, a api da Newsapi foi consumida na linguagem Python e exibida uma lista de notícias recentes do Brasil com informações de seus autores, título e descrição das notícias. A Api foi usada também no Google Colab e houve a preocupação, quando no Visual Studio Code, de esconder a chave de segurança ao utilizar a biblioteca dotenv.
 
 ## Print do projeto no Visual Studio Code
 <div align="center">
