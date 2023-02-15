@@ -25,6 +25,15 @@ pip install newsapi-python
 
 from newsapi import NewsApiClient
 
+## Autenticando a Api
+
+api = NewsApiClient(api_key= 'put your key')
+
+## Buscando notícias recentes em Português
+
+api.get_top_headlines(language='pt')
+
+
 # Comandos utilizados no Visual Studio Code
 
 ## Instalação do newsapi  
